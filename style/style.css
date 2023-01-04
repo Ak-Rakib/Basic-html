@@ -1,0 +1,59 @@
+.header {
+    text-align: center;
+    background-color: black;
+    color: antiquewhite;
+    padding: 1%;
+}
+
+.slogan {
+    color: aliceblue;
+}
+
+.header h1:hover {
+    color: burlywood;
+}
+
+form label {
+    display: block;
+    margin: 1%;
+}
+
+legend input {
+    display: block;
+}
+
+fieldset {
+    margin-top: 1%;
+}
+
+textarea {
+    margin-top: 1%;
+    display: block;
+    margin-bottom: 1%;
+}
+form {
+    background-color: bisque;
+    padding: 1%;
+}
+
+footer {
+    margin-top: 1%;
+    background-color: bisque;
+    padding: 1%;
+}
+
+legend {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+table, th, td {
+    text-align: center;
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 2px 2px;
+}
+
+footer a {
+    text-decoration: none;
+    color: black;
+}
